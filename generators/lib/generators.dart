@@ -1,4 +1,4 @@
-library generator;
+library generators;
 
 /// A Calculator.
 class Calculator {
