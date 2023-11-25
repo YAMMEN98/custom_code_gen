@@ -3,15 +3,15 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
-      <excludeFolder url="file://$MODULE_DIR$/annotations/.pub" />
-      <excludeFolder url="file://$MODULE_DIR$/annotations/.dart_tool" />
-      <excludeFolder url="file://$MODULE_DIR$/annotations/build" />
       <excludeFolder url="file://$MODULE_DIR$/example/build" />
       <excludeFolder url="file://$MODULE_DIR$/example/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/example/.pub" />
-      <excludeFolder url="file://$MODULE_DIR$/generators/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/generators/build" />
+      <excludeFolder url="file://$MODULE_DIR$/generators/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/generators/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/annotations/build" />
+      <excludeFolder url="file://$MODULE_DIR$/annotations/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/annotations/.pub" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
